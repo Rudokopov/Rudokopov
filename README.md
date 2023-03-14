@@ -13,7 +13,7 @@ const pavel = {
   tools: [React, Node, Webpack, Figma],
   education: {
     college: 'Administrative law lawyer',
-    additional education: 'Web-developer courses of Yandex Practicum',
+    additional.education: 'Web-developer courses of Yandex Practicum',
     languages: 'Russian - native speaker, English - B1'
   },
   hobby: {
