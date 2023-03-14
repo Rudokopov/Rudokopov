@@ -20,7 +20,7 @@ const pavel = {
     "I love programming practic, now i learning TypeScript and React, write site for my GF on React"
   },
   phrase: {
-    'Sorry for my English'
+    '"every dark night has a bright morning" (c) Tupac Shakur'
   }
 };
 ```
