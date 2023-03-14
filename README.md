@@ -2,9 +2,9 @@
 
 <h2> Hi, I'm Pavel Rudokopov!</h2>
 <img align='right' src="https://cs9.pikabu.ru/images/big_size_comm_an/2016-10_3/1476469929152241585.gif" width="230">
-<p><em>Student of Frontend-developer faculty at <a href="https://practicum.yandex.ru/">University of Yandex Practicum</a><img src="https://giphy.com/embed/kFNVxlUQMJVsXE76Ic/video" width="30">
+<p><em>Student of Frontend-developer faculty at <a href="https://practicum.yandex.ru/">University of Yandex Practicum</a><img src="https://giphy.com/gifs/heyarnold-hey-arnold-nick-splat-xUNd9FOSgUDmfVZ78I" width="30">
 
-[![Headhunter: pavelrudokopov](https://lesprominform.ru/media/jarticles_preview/tmb/00022810--w100.png)
+[![Headhunter: pavelrudokopov](https://lesprominform.ru/media/jarticles_preview/tmb/00022810--w20.png)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Rudokopov)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
