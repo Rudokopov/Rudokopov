@@ -1,33 +1,34 @@
 ### Hi there 👋
 
-<h2> Hi, I'm Thai Braga! <img src="https://images.unsplash.com/photo-1513245543132-31f507417b26?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80" width="50"></h2>
-<img align='right' src="https://images.unsplash.com/photo-1513245543132-31f507417b26?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h2> Hi, I'm Pavel Rudokopov!</h2>
+<img align='right' src="https://cs9.pikabu.ru/images/big_size_comm_an/2016-10_3/1476469929152241585.gif" width="230">
+<p><em>Student of Frontend-developer faculty at <a href="https://practicum.yandex.ru/">University of Yandex Practicum</a><img src="https://giphy.com/embed/kFNVxlUQMJVsXE76Ic/video" width="30">
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Linkedin: thaianebraga](https://static.tildacdn.com/tild6534-3763-4562-a432-633332393265/photo.png)](https://kanevskaya.hh.ru/resume/7f031c08ff0bcbbfeb0039ed1f327644713668)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Rudokopov)
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+const pavel = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Node, Webpack, Figma],
+  education: {
+    college: 'Administrative law lawyer',
+    additional education: 'Web-developer courses of Yandex Practicum',
+    languages: 'Russian - native speaker, English - B1'
+  },
+  hobby: {
+    "I love programming practic, now i learning TypeScript and React, write site for my GF on React"
+  },
+  favorite phrase: {
+    'Sorry for my English'
+  }
+};
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love coding, teamwork</b> and play video games</em>
 
 ---
 
