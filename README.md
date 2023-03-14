@@ -19,7 +19,7 @@ const pavel = {
   hobby: {
     "I love programming practic, now i learning TypeScript and React, write site for my GF on React"
   },
-  favorite phrase: {
+  phrase: {
     'Sorry for my English'
   }
 };
