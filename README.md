@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h2> Hi, I'm Thai Braga! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXTSoOPwAhb_yWBlFkC-9zGzA5NE2rbkV5CA&usqp=CAU)" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> Hi, I'm Thai Braga! <img src="https://images.unsplash.com/photo-1513245543132-31f507417b26?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80" width="50"></h2>
+<img align='right' src="https://images.unsplash.com/photo-1513245543132-31f507417b26?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
