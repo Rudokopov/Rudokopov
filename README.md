@@ -4,7 +4,7 @@
 
 ![Headhunter: pavelrudokopov](https://lesprominform.ru/media/jarticles_preview/tmb/00022810--w100.png)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="https://giphy.com/gifs/yosub-money-donald-duck-cash-xTiTnqUxyWbsAXq7Ju" width="50"> A little more about me...
 
 ```javascript
 const pavel = {
