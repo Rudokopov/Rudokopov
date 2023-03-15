@@ -4,7 +4,7 @@
 
 ![Headhunter: pavelrudokopov](https://lesprominform.ru/media/jarticles_preview/tmb/00022810--w100.png)
 
-### <img src="https://giphy.com/gifs/yosub-money-donald-duck-cash-xTiTnqUxyWbsAXq7Ju" width="50"> A little more about me...
+A little more about me...
 
 ```javascript
 const pavel = {
@@ -25,6 +25,6 @@ const pavel = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love coding, teamwork</b> and play video games</em>
+ <em><b>I love coding, teamwork</b> and play video games</em>
 
 ---
