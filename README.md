@@ -11,7 +11,7 @@ A little more about me...
 ```javascript
 const pavel = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
+  code: [Javascript, TypeScript HTML, CSS],
   tools: [React, Node, Webpack, Figma],
   education: {
     college: 'Administrative law lawyer',
