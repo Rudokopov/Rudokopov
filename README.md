@@ -14,7 +14,7 @@ const pavel = {
   code: [Javascript, TypeScript HTML, CSS],
   tools: [React, Node, Webpack, Figma],
   education: {
-    college: 'Administrative law lawyer',
+    college: 'computer science',
     additional.education: 'Web-developer courses of Yandex Practicum',
     languages: 'Russian - native speaker, English - B1'
   },
