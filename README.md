@@ -11,15 +11,15 @@ A little more about me...
 ```javascript
 const pavel = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, SCSS],
-  tools: [React, Redux, Node, Webpack, Figma],
+  skills: [TypeScript, JavaScript, NodeJS, HTML, CSS, SCSS],
+  tools: [React, Redux, MongoDB, Express, Webpack, Docker],
   education: {
     college: 'computer science',
     additional.education: 'Web-developer courses',
     languages: 'Russian - native speaker, English - B1'
   },
   hobby: {
-    "I love programming practic, now i learning TypeScript and Vue"
+    "I love programming practic, now i learning Swift and Python"
   },
   phrase: {
     '"every dark night has a bright morning" (c) Tupac Shakur'
